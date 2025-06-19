@@ -41,6 +41,15 @@ HampersXmore is a personalized gifting website created on the Odoo SaaS platform
 
 ---
 
+
+# What I Learned
+
+- Setting up eCommerce functionality using Odoo's modular apps,
+- Configuring website structure and layout with Odoo CMS,
+- Managing products, pricing, and online orders,
+- Using low-code tools to deploy a full-fledged online store,
+- Understanding how Odoo simplifies business operations end-to-end.
+
 # Screenshots
 
 ![Screenshot 2025-06-19 225013](https://github.com/user-attachments/assets/747f2ac6-eb4b-4816-baae-9d893af0cf77)
