@@ -18,13 +18,13 @@ HampersXmore is a personalized gifting website created on the Odoo SaaS platform
 
 # Features
 
-  Product catalog for curated hampers
-  Shopping cart and checkout system
-  Order management (configured via Odoo Sales app)
-  Custom homepage and landing sections using Odoo CMS
-  Contact form integration
-  Responsive design for mobile and desktop
-  Built entirely using Odoo modules and website builder
+  Product catalog for curated hampers,
+  Shopping cart and checkout system,
+  Order management (configured via Odoo Sales app),
+  Custom homepage and landing sections using Odoo CMS,
+  Contact form integration,
+  Responsive design for mobile and desktop,
+  Built entirely using Odoo modules and website builder.
 
 ---
 
@@ -42,5 +42,31 @@ HampersXmore is a personalized gifting website created on the Odoo SaaS platform
 ---
 
 # Screenshots
+
+![Screenshot 2025-06-19 225013](https://github.com/user-attachments/assets/747f2ac6-eb4b-4816-baae-9d893af0cf77)
+
+
+
+![Screenshot 2025-06-19 225058](https://github.com/user-attachments/assets/7ea28785-dc04-4172-b7ec-82e2d0066008)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
